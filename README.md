@@ -42,7 +42,7 @@ It combines resume analysis, AI-powered rewriting, resume comparison, versioning
 
 ### AI Interview Preparation
 
-![ResumeIQ AI Interview Preparation](screenshots/Screenshot(945).png)
+![ResumeIQ AI Interview Preparation](screenshots/Screenshot (945).png)
 
 ---
 ## 🛠️ Tech Stack
