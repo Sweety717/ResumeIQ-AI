@@ -30,7 +30,21 @@ It combines resume analysis, AI-powered rewriting, resume comparison, versioning
 - Pluggable AI Provider Architecture
 
 ---
+## 📸 Screenshots
 
+### Dashboard
+
+![ResumeIQ AI Dashboard](screenshots/2.png)
+
+### Analysis History
+
+![ResumeIQ AI Analysis History](screenshots/4.png)
+
+### AI Interview Preparation
+
+![ResumeIQ AI Interview Preparation](screenshots/Screenshot (945).png)
+
+---
 ## 🛠️ Tech Stack
 
 - Java 17
